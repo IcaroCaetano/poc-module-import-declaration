@@ -156,3 +156,19 @@ AtomicLong
 AtomicBoolean
 AtomicReference
 ````
+#### I/O
+
+````
+java.io
+````
+
+Classes:
+
+`````
+File
+InputStream
+OutputStream
+BufferedReader
+BufferedWriter
+Serializable
+``````
