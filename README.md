@@ -141,3 +141,18 @@ CountDownLatch
 Future
 TimeUnit
 ````
+
+#### Concorrência avançada
+
+````
+java.util.concurrent.atomic
+````
+
+Classes:
+
+````
+AtomicInteger
+AtomicLong
+AtomicBoolean
+AtomicReference
+````
