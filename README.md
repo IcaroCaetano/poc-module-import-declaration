@@ -34,3 +34,57 @@ Você pode executar:
 ````
 java --list-modules
 ````
+
+## Exemplo de Modulo:
+
+### O que o java.base abrange?
+
+````java
+java.lang
+````
+#### Linguagem e objetos básicos
+
+Classes:
+
+````java
+String
+Object
+System
+Math
+Thread
+Runtime
+Class
+Enum
+Throwable
+Exception
+Error
+Process
+ProcessBuilder
+````
+#### Coleções
+
+````
+java.util
+````
+
+Classes:
+````
+List
+ArrayList
+LinkedList
+Map
+HashMap
+TreeMap
+Set
+HashSet
+TreeSet
+Queue
+Deque
+Optional
+UUID
+Random
+Collections
+Comparator
+````
+
+Streams
