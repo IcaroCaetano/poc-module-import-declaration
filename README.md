@@ -128,3 +128,16 @@ ZonedDateTime
 ````
 java.util.concurrent
 ````
+
+Classes:
+
+````
+CompletableFuture
+ExecutorService
+Executors
+ConcurrentHashMap
+Semaphore
+CountDownLatch
+Future
+TimeUnit
+````
