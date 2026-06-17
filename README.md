@@ -63,7 +63,7 @@ ProcessBuilder
 ````
 #### Coleções
 
-````
+````java
 java.util
 ````
 
@@ -88,3 +88,18 @@ Comparator
 ````
 
 Streams
+
+````java
+java.util.stream
+````
+
+Classes:
+
+````
+Stream
+Collectors
+Gatherer
+IntStream
+LongStream
+DoubleStream
+````
