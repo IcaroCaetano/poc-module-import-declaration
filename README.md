@@ -15,34 +15,34 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 ````
-
-ou com Wildcard
+or with Wildcard
 
 ````java
 import java.util.*;
 ````
 
-No Java 25, podemos importar um módulo inteiro.
+In Java 25, we can import an entire module.
 
 ````java
 import module java.base;
 ````
 
-Como descobrir todos os módulos e seus pacotes?
-Você pode executar:
+How do I find all the modules and their packages?
+
+You can run:
 
 ````
 java --list-modules
 ````
 
-## Exemplo de Modulo:
+## Example of a Module:
 
-### O que o java.base abrange?
+### What does java.base cover?
 
 ````java
 java.lang
 ````
-#### Linguagem e objetos básicos
+#### Basic Language and Objects
 
 Classes:
 
