@@ -1,13 +1,13 @@
 # poc-module-import-declaration
 
-## Objetivo 
+## Objective
 
-- Melhorar a experiencia do desenvolvedor
-- Evitar Boilerplate 
-- Codigo mais limpo
-- Menos manutencao de imports
+- Improve developer experience
+- Avoid boilerplate code
+- Cleaner code
+- Less import maintenance
 
-## Antes 
+## Before
 
 ````java
 import java.util.List;
